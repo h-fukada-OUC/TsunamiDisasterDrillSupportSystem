@@ -1,0 +1,11 @@
+Title: 
+
+Proposal and evaluation of tsunami disaster drill support system using tablet computer
+
+Abstract: 
+
+In Japan, for tsunami disaster prevention, the government prepares tsunami hazard maps and provides them to residents. 
+However, residents often do not examine the provided maps. 
+Thus, these maps are not well utilized. In this study, we focused on the offline Geographic Information System and proposed a tsunami disaster drill support system that displays a tsunami hazard map, the current location, and route for the users. 
+Using a prototype of the proposed system, we conducted an evaluation for the same in the Otaru City, Hokkaido. 
+The results showed that the basic functions of the proposed system were mostly favorable for the evacuation process. 
